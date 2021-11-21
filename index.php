@@ -1,3 +1,3 @@
 <?php
-    include_once('store.html')
+    include_once('about.html')
 ?>
